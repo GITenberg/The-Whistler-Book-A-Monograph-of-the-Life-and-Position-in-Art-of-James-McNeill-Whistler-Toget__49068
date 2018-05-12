@@ -1,4 +1,5 @@
 _repo: The-Whistler-Book-A-Monograph-of-the-Life-and-Position-in-Art-of-James-McNeill-Whistler-Toget__49068
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Whistler, James McNeill
@@ -8,12 +9,17 @@ contributor:
     gutenberg_agent_id: '26645'
     url: http://www.gutenberg.org/2009/agents/26645
     wikipedia: http://en.wikipedia.org/wiki/James_McNeill_Whistler
+covers:
+- cover_type: archival
+  image_path: 49068-h/images/cover.jpg
 creator:
   author:
     agent_name: Hartmann, Sadakichi
     gutenberg_agent_id: '45119'
     url: http://www.gutenberg.org/2009/agents/45119
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49068#The-Whistler-Book-A-Monograph-of-the-Life-and-Position-in-Art-of-James-McNeill-Whistler-Toget_
 gutenberg_issued: '2015-05-28'
 gutenberg_type: Text
 identifiers:
